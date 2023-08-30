@@ -13,7 +13,7 @@
 <br>
 
 ## 📸 Deneme :
-Heyecan verici projeleri görmek için [Mini Projeler](https://mstftna.github.io/10MiniProjecChallenge/) websitesini kontrol edebilirsiniz.
+Heyecan verici projeleri görmek için [Mini Projeler](https://mstftna.github.io/10MiniProjeChallenge/) websitesini kontrol edebilirsiniz.
 <br><br>
 
 
