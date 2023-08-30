@@ -1,4 +1,4 @@
-const sounds = ["DirilisMusic1","DirilisMusic2","DirilisMusic3","DirilisMusic4"];
+const sounds = ["Music1","Music2","Music3","Music4"];
 
 sounds.forEach((sound) => {
     const btn = document.createElement("button");

@@ -9,7 +9,7 @@ function generateNotification() {
     const notification = document.createElement('div');
     notification.classList.add('toast');
 
-    notification.innerText = "Hi There, I am a Toast!";
+    notification.innerText = "Merhaba, bu bir kayan mesaj =)";
     divWrapper.appendChild(notification);
 
     setTimeout(() => {
